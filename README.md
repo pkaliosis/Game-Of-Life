@@ -1,1 +1,2 @@
 # Game-Of-Life
+So this is an implementation of the "Game of life" I created as part of AUEB's Python course in my rookie year. The rules are really simple and whoever interested can read them (plus more info on the subject) following this link: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life. There are doctests for each function created, but I am afraid they are written on greeklish (greek language written in the english aplhabet). But I am confident that you are going to be able to understand the code easily, as it is well-structured.
